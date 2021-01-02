@@ -4,6 +4,26 @@ This repository consists of some projects that I learned during Bertelsmann Tech
 
 [Link to Implementation details](https://github.com/nikitashrestha/data_analytics_udacity/blob/main/docs/linear_model.md)
 
+## System Requirements
+
+- Python 3 or above
+- Virualenv
+
+## Steps to run the project
+
+1. Create a virtual environment and activate it.
+2. Run following command to install necessary packages
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run follwing to train, test and generate recommendation.
+
+```bash
+python main.py
+```
+
 ## Practice Project Details
 
 ### Project Overview
