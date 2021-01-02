@@ -9,7 +9,7 @@ The code below reads the dataset from s3 bucket and converts the byte type to pa
   df = convert_byte_to_df(data)
 ```
 
-![data]('./images/data.png')
+![data](./images/data.png)
 
 To check if some null values exist in a particular column of your dataset, use function below:
 
